@@ -32,7 +32,7 @@ public class StringCount {
 class StringCountTest {
 
     public static void main(String[] args) {
-        s
+
         StringCount strCheck = new StringCount();
         strCheck.start();
     }

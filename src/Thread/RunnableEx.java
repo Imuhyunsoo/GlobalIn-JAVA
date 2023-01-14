@@ -1,10 +1,8 @@
 package Thread;
 
-import JavaPratice.Account2;
-
 class RunnableEx implements Runnable {
 
-    Account2 acc = new Account2();
+    Account acc = new Account();
 
     @Override
     public void run() {
